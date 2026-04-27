@@ -1,0 +1,18 @@
+body, h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1, .subheading {
+  font-family: "LXGW WenKai TC", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+--bs-primary-rgb: 66, 46, 164;
+--bs-link-color: rgb(66, 46, 164);
+--bs-link-hover-color: rgb(66, 46, 164);
+}
+.social-icons .social-icon:hover {
+background-color: rgb(66, 46, 164);
+}
+.resume-section {
+background-color: rgb(247, 229, 211);
+background-size: cover;
+}
